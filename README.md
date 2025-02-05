@@ -1,9 +1,9 @@
-## 👋 Hello there i'm Daniel
+## 👋 Hello there I'm Daniel
 
-🎓 I'm currently studying Software Engineering at the University of Otago.
+🎓 I've got a bachelor's in Software Engineering at the University of Otago.
 
-🔭 I’m am working on a ai power baker assistant app.
+🔭 I’m am working on TheDessertRoom website.
 
-🌱 I’m learning React,django and AWS cloud.
+🌱 I’m currently learning AWS cloud.
 
 Email me: [danielwest618@gmail.com](danielwest618@gmail.com)
